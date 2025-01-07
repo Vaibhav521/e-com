@@ -35,8 +35,8 @@ To run the application locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/e-commerce-app.git
-   cd e-commerce-app
+   https://github.com/Vaibhav521/e-com.git
+   cd e-com
    ```
 
 2. Install dependencies:
