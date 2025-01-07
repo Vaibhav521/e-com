@@ -5,6 +5,9 @@ This is a simple React-based e-commerce web application that allows users to bro
 
 ![image](https://github.com/user-attachments/assets/8e5d0cbf-2a9a-4eac-a997-128147222446)
 
+![image](https://github.com/user-attachments/assets/c8ee4bc1-6f78-4880-9943-e6497b255bf6)
+
+
 
 ## Features
 - **Home Page (`/`)**
