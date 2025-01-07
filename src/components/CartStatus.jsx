@@ -1,6 +1,6 @@
-import { useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
 import { CiShoppingCart } from "react-icons/ci";
+import { useSelector } from 'react-redux';  
 
 function CartStatus() {
     const { items } = useSelector((state) => state.cart);
@@ -16,4 +16,3 @@ function CartStatus() {
 }
 
 export default CartStatus;
-

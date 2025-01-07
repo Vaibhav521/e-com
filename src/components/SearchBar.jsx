@@ -1,7 +1,7 @@
 import { FiSearch } from "react-icons/fi";
 
 import { useState } from "react";
-import { useDispatch } from "react-redux";
+import { useDispatch } from 'react-redux';
 import { setQuery } from "../store/productSlice";
 
 function ProductSearchBar() {
