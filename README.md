@@ -2,6 +2,10 @@
 
 This is a simple React-based e-commerce web application that allows users to browse products, add them to the cart, and proceed with checkout. The application uses Redux Toolkit for state management, Tailwind CSS for styling, and supports various features like product search, sorting, and filtering.
 
+
+![image](https://github.com/user-attachments/assets/8e5d0cbf-2a9a-4eac-a997-128147222446)
+
+
 ## Features
 - **Home Page (`/`)**
   - Display a list of products.
