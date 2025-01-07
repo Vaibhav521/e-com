@@ -126,10 +126,7 @@ This makes the code cleaner and allows us to reuse the filtering and sorting log
 ```
 src/
 ├── components/
-│   ├── ProductCard.js         # Displays individual product details.
-│   ├── SkeletonProductCard.js # Loading skeleton while products are being fetched.
-│   ├── CartItem.js            # Displays individual cart item details.
-│   └── CheckoutModal.js       # Checkout modal to enter address details.
+│   ├── components
 ├── pages/
 │   ├── Home.js                # Home page displaying products with search & filter.
 │   ├── Cart.js                # Cart page with the list of items and checkout modal.
